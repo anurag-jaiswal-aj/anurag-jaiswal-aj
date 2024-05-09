@@ -22,7 +22,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/therightrag" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="therightrag" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/anuragjaiswal5826/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/anuragjaiswal5826/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/anuragjaiswal5826/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/anuragjaiswal5826/" height="30" width="40" /></a>
 <a href="https://fb.com/anurag jaiswal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="anurag jaiswal" height="30" width="40" /></a>
 <a href="https://www.instagram.com/therightrag/?hl=en" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/therightrag/?hl=en" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/therightrag" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="therightrag" height="30" width="40" /></a>
