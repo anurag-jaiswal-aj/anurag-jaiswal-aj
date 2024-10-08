@@ -15,7 +15,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/anurag-jaiswal-aj](https://github.com/anurag-jaiswal-aj)
 
-- 💬 Ask me about **HTML and CSS**
+- 💬 Ask me about **HTML, CSS & JS**
 
 - 📫 How to reach me **janurag582004@gmail.com**
 
