@@ -9,13 +9,13 @@
 
 - 🔭 I’m currently working on [drsdriven](https://github.com/anurag-jaiswal-aj/drsdriven)
 
-- 🌱 I’m currently learning **Javascript**
+- 🌱 I’m currently learning **TypeScript**
 
-- 👯 I’m looking to collaborate on [Clone Projects](https://github.com/anurag-jaiswal-aj/Netflix-Clone)
+- 👯 I’m looking to collaborate on [drsdriven](https://github.com/anurag-jaiswal-aj/drsdriven)
 
 - 👨‍💻 All of my projects are available at [https://github.com/anurag-jaiswal-aj](https://github.com/anurag-jaiswal-aj)
 
-- 💬 Ask me about **HTML, CSS & JS**
+- 💬 Ask me about **MERN**
 
 - 📫 How to reach me **janurag582004@gmail.com**
 
